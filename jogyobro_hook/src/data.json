@@ -1,0 +1,24 @@
+{
+  "data": {
+    "students": [
+      {
+        "id": 0,
+        "name": "조교행님",
+        "age": 28,
+        "isGirlfriend": false
+      },
+      {
+        "id": 1,
+        "name": "yunsoo",
+        "age": 24,
+        "isGirlfriend": false
+      },
+      {
+        "id": 2,
+        "name": "운수",
+        "age": 21,
+        "isGirlfriend": true
+      }
+    ]
+  }
+}
