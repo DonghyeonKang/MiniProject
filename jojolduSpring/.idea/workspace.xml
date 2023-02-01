@@ -4,7 +4,34 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9b95e9f5-9315-43ee-bcee-16d916791b32" name="변경" comment="" />
+    <list default="true" id="9b95e9f5-9315-43ee-bcee-16d916791b32" name="변경" comment="">
+      <change afterPath="$PROJECT_DIR$/jojoldu/src/main/java/com/jojoldu/book/springboot/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jojoldu/src/main/java/com/jojoldu/book/springboot/domain/posts/Posts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jojoldu/src/main/java/com/jojoldu/book/springboot/domain/posts/PostsRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jojoldu/src/main/java/com/jojoldu/book/springboot/web/Dto/HelloResponseDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jojoldu/src/main/java/com/jojoldu/book/springboot/web/HelloController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jojoldu/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jojoldu/src/test/java/com/jojoldu/book/springboot/domain/posts/PostsRepositoryTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jojoldu/src/test/java/com/jojoldu/book/springboot/web/Dto/HelloResponseDtoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jojoldu/src/test/java/com/jojoldu/book/springboot/web/HelloControllerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jojoldu/.gradle/7.5.1/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/jojoldu/.gradle/7.5.1/checksums/checksums.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jojoldu/.gradle/7.5.1/checksums/md5-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/jojoldu/.gradle/7.5.1/checksums/md5-checksums.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jojoldu/.gradle/7.5.1/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/jojoldu/.gradle/7.5.1/checksums/sha1-checksums.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jojoldu/.gradle/7.5.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/jojoldu/.gradle/7.5.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jojoldu/.gradle/7.5.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/jojoldu/.gradle/7.5.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jojoldu/.gradle/7.5.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/jojoldu/.gradle/7.5.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jojoldu/.gradle/7.5.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/jojoldu/.gradle/7.5.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jojoldu/.gradle/7.5.1/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/jojoldu/.gradle/7.5.1/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jojoldu/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/jojoldu/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jojoldu/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/jojoldu/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jojoldu/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/jojoldu/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jojoldu/.gradle/file-system.probe" beforeDir="false" afterPath="$PROJECT_DIR$/jojoldu/.gradle/file-system.probe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jojoldu/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/jojoldu/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jojoldu/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/jojoldu/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jojoldu/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/jojoldu/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jojoldu/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/jojoldu/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jojoldu/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/jojoldu/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,7 +49,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "D:/Project/miniProject/jojolduSpring"
+    "last_opened_file_path": "D:/Project/miniProject/jojolduSpring/jojoldu"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="애플리케이션 수준" UseSingleDictionary="true" transferred="true" />
